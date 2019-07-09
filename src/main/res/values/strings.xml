@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Red Giant BK</string>
+    <string-array name="dialog_chooser">
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Cancel</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

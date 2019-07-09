@@ -1,0 +1,4 @@
+#Sun Apr 14 13:07:57 EAT 2019
+base.0=E\:\\dwa\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
